@@ -32,6 +32,9 @@ public class Supermarket {
         }
         return temp;
     }
+    public int brojArtikala () {
+        return broj;
+    }
 
     public Artikl[] getArtikli() {
         return artikli;
